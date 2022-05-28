@@ -1,2 +1,1 @@
-My first readme.
-Added a lil sum
+**This file is mandatory in projects**
